@@ -6,9 +6,11 @@ I'm a software engineering student at CodeSpace Academy specializing in Front En
 
 🤝 **Connect with me**
 
-* 📞 <a  target="_blank" href="tel:+27714292172">071 429 2172</a> 
-* ✉️ <a  target="_blank" href="mailto:david1mushi1@gmail.com">davi1mushi1@gmail.com</a> 
-* 🖥️ <a  target="_blank" href="http://mohaumushi-portfolio.vercel.app">Mohau Mushi' Portfolio</a>  
+📞 <a  target="_blank" href="tel:+27714292172">071 429 2172</a>  <br>
+
+✉️ <a  target="_blank" href="mailto:david1mushi1@gmail.com">davi1mushi1@gmail.com</a> <br>
+
+🖥️ <a  target="_blank" href="http://mohaumushi-portfolio.vercel.app">Mohau Mushi' Portfolio</a>  
 
 
 # 🛠️ Technologies
