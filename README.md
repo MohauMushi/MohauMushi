@@ -7,7 +7,7 @@ I'm a Software Developer Student at CodeSpace Academy specializing in Front End,
 
 📞 <a  target="_blank" href="tel:+27714292172">071 429 2172</a>  <br>
 
-✉️ <a  target="_blank" href="mailto:david1mushi1@gmail.com">davi1mushi1@gmail.com</a> <br>
+✉️ <a  target="_blank" href="mailto:david1mushi1@gmail.com">david1mushi1@gmail.com</a> <br>
 
 🖥️ <a  target="_blank" href="http://mohaumushi-portfolio.vercel.app">Mohau Mushi' Portfolio</a> 
 
