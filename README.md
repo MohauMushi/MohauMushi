@@ -9,7 +9,7 @@ I'm a Software Developer Student at CodeSpace Academy specializing in Front End,
 
 ✉️ <a  target="_blank" href="mailto:david1mushi1@gmail.com">david1mushi1@gmail.com</a> <br>
 
-🖥️ <a  target="_blank" href="http://mohaumushi-portfolio.vercel.app">Mohau Mushi' Portfolio</a> 
+🖥️ <a  target="_blank" href="https://mohaumushiportfolio.vercel.app/">Mohau Mushi' Portfolio</a> 
 
 <br>
 
