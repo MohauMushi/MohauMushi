@@ -67,6 +67,27 @@ I'm a Software Developer Student at CodeSpace Academy specializing in Front End,
 
 # 👨‍🎓Projects
 
+## NextJs Culinary Haven
+ 🔗https://culinary-haven-a.vercel.app/ <br>
+ Github: [https://github.com/MohauMushi/MOHMUS379_BCL2401_GroupA_MohauMushi_SDF11.git](https://github.com/zacharyschroder/ASE-GROUPA)
+ 
+![ScreenshotLandingPage](https://github.com/user-attachments/assets/6bcec37e-c22e-4470-950a-d84ed6055421)
+
+
+### Tech Stack Used
+<div align="left">  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>   
+</div>
+
+<br>
+
+<br>
+
 ## Tailwind CSS Cache Bank Landing Page
  🔗https://cache-bank-landing.netlify.app <br>
  Github: https://github.com/MohauMushi/MOHMUS379_BCL2401_GroupA_MohauMushi_SDF11.git
