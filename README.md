@@ -69,7 +69,7 @@ I'm a Software Developer Student at CodeSpace Academy specializing in Front End,
 
 ## NextJs Culinary Haven
  🔗https://culinary-haven-a.vercel.app/ <br>
- Github: [https://github.com/MohauMushi/MOHMUS379_BCL2401_GroupA_MohauMushi_SDF11.git](https://github.com/zacharyschroder/ASE-GROUPA)
+ Github: [Culinary Haven](https://github.com/zacharyschroder/ASE-GROUPA)
  
 ![ScreenshotLandingPage](https://github.com/user-attachments/assets/6bcec37e-c22e-4470-950a-d84ed6055421)
 
