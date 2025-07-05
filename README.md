@@ -15,22 +15,23 @@ I'm a Software Developer Student at CodeSpace Academy specializing in Front End,
 
 # 🛠️ Languages and Tools
 <div align="left"> 
-<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<img src="https://skillicons.dev/icons?i=github" height="20" alt="github logo"  />
+<img src="https://skillicons.dev/icons?i=css" height="20" alt="css logo"  />
+<img src="https://skillicons.dev/icons?i=html" height="20" alt="html logo"  />
+<img src="https://skillicons.dev/icons?i=javascript" height="20" alt="javascript logo"  />
+<img src="https://skillicons.dev/icons?i=typescript" height="20" alt="typescript logo"  />
+<img src="https://skillicons.dev/icons?i=react" height="20" alt="react logo">
+<img src="https://skillicons.dev/icons?i=bootstrap" height="20" alt="bootstrap logo">
+<img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwindcss logo">
+<img src="https://skillicons.dev/icons?i=mui" height="20" alt="mui logo">
+<img src="https://skillicons.dev/icons?i=styledcomponents" height="20" alt="styled components logo">
+<img src="https://skillicons.dev/icons?i=vue" height="20" alt="vuejs logo">
+<img src="https://skillicons.dev/icons?i=nodejs" height="20" alt="nodejs logo">
+<img src="https://skillicons.dev/icons?i=git" height="20" alt="git logo">
+<img src="https://skillicons.dev/icons?i=mongodb" height="20" alt="mongodb logo">
+<img src="https://skillicons.dev/icons?i=nextjs" height="20" alt="nextjs logo">
+<img src="https://skillicons.dev/icons?i=firebase" height="20" alt="firebase logo">
+<img src="https://skillicons.dev/icons?i=express" height="20" alt="expressjs logo">
 </div>
 
 </td><td valign="top" width="33%">
@@ -76,12 +77,12 @@ I'm a Software Developer Student at CodeSpace Academy specializing in Front End,
 
 ### Tech Stack Used
 <div align="left">  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>   
+<img src="https://skillicons.dev/icons?i=nextjs" height="20" alt="nextjs logo">
+<img src="https://skillicons.dev/icons?i=react" height="20" alt="react logo">
+<img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwindcss logo">
+<img src="https://skillicons.dev/icons?i=nodejs" height="20" alt="nodejs logo">
+<img src="https://skillicons.dev/icons?i=express" height="20" alt="expressjs logo">
+<img src="https://skillicons.dev/icons?i=mongodb" height="20" alt="mongodb logo">
 </div>
 
 <br>
@@ -96,10 +97,10 @@ I'm a Software Developer Student at CodeSpace Academy specializing in Front End,
 
 ### Tech Stack Used
 <div align="left">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<img src="https://skillicons.dev/icons?i=html" height="20" alt="html logo"  />
+<img src="https://skillicons.dev/icons?i=javascript" height="20" alt="javascript logo"  />
+<img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwindcss logo">
+<img src="https://skillicons.dev/icons?i=css" height="20" alt="css logo"  />
 </div>
 
 <br>
@@ -111,10 +112,10 @@ I'm a Software Developer Student at CodeSpace Academy specializing in Front End,
 ![Screenshot (118)](https://github.com/MohauMushi/MohauMushi/assets/156682852/3ac40e42-a74e-4683-9b0a-2f7888ce4682)
 ### Tech Stack Used
 <div align="left">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<img src="https://skillicons.dev/icons?i=html" height="20" alt="html logo"  />
+<img src="https://skillicons.dev/icons?i=javascript" height="20" alt="javascript logo"  />
+<img src="https://skillicons.dev/icons?i=css" height="20" alt="css logo"  />
+<img src="https://skillicons.dev/icons?i=firebase" height="20" alt="firebase logo">
 
 </div>
 
@@ -126,9 +127,9 @@ Github: https://github.com/MohauMushi/MOHMUS379_BCL2401_GroupA_MohauMushi_SDF08.
 
 ### Tech Stack Used
 <div align="left">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<img src="https://skillicons.dev/icons?i=css" height="20" alt="css logo"  />
+<img src="https://skillicons.dev/icons?i=html" height="20" alt="html logo"  />
+<img src="https://skillicons.dev/icons?i=javascript" height="20" alt="javascript logo"  />
 </div>
 </td><td valign="top" width="33%">
 
